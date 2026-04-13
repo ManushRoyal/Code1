@@ -1,1 +1,23 @@
 file upload chesi commit changes kottu oka sari check chey malli upload ayindaa leda ani
+
+QUESTION:
+
+Design and develop a Travel Destination Web Page using HTML for ABC Tours & Travels
+that showcases popular tourist destinations in an attractive and well-structured format. The
+webpage should include a header section displaying the company name, a navigation menu
+with links such as Home, Destinations, Packages, and Contact. The main content should
+highlight multiple travel destinations, where each destination includes its name, brief
+description, key attractions, and estimated cost or package details. The webpage should
+organize destinations into sections (for example: Beaches, Hill Stations, Heritage Sites, etc.)
+using appropriate HTML elements such as headings, paragraphs, lists, and divisions. It should
+also include a Packages section describing travel deals or offers, and an About Us section
+explaining the services provided by ABC Tours & Travels. A Contact section must be included
+with details such as phone number, email, and address. Finally, include a footer section with
+copyright information or social media information. Maintain the source code in a GitHub
+repository [10]
+• Clone the repository into VS Code, make any updates, commit and push the changes
+to the Git repository [10].
+• Containerize the application using Docker and prepare it for deployment [10].
+• Configure Jenkins to create a pipeline project that builds, tests, and deploys the
+application using Docker and Kubernetes, and visualize the deployment through
+Docker Desktop [20]
